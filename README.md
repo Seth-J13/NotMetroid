@@ -3,7 +3,7 @@ This is totally not a recreation of metroid. This has NotSam a character who has
 
 Game has a few bugs but I ran into the project deadline. There are work arounds to the bugs so just start pressing buttons.
 
-# Controls
+## Controls
 - WASD to move
 - Space to jump
 - LMB to fire laser beams (infinite)
@@ -13,7 +13,7 @@ Game has a few bugs but I ran into the project deadline. There are work arounds 
 
 *Requires 1 or more upgrades to use
 
-# Upgrades
+## Upgrades
 - Rockets
 - Morphball
 - Morphbomb
@@ -22,7 +22,7 @@ Game has a few bugs but I ran into the project deadline. There are work arounds 
 - Lava Immunity
 - Tri beam
 
-## Warning
+### Warning
 The enemies are unfair. They have lots of health and can occasionally fly across the map. I made the game with as much fairness as I could, but I also wanted my teacher to have a challenge. Play at your own risk.
 
 
